@@ -1,0 +1,60 @@
+.logo{
+
+	max-width: 250px;
+	max-height: 100px;
+	margin-top:10px;
+	margin-bottom: 10px;
+	opacity: 0.7;
+	cursor: pointer;
+}
+
+.logo:hover {
+	opacity: 1;
+}
+
+.signupcard{
+	margin-top: 15px;
+}
+
+.topquestion{
+
+	margin-top: 2%;
+
+}
+
+.userlogo{
+
+	opacity: 0.7;
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom:10px;
+	margin-left: 50px;
+}
+
+.userlogo:hover{
+	opacity: 1;
+}
+
+
+.communitylogo{
+
+	width: 100px;
+	height: 100px;
+	margin-top:100px;
+}
+
+
+
+.signupfooter{
+
+
+	color: white;
+}
+
+.footer{
+
+	margin-top: 4px;
+
+}
